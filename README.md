@@ -19,6 +19,10 @@ I am an Electronics and Communication Engineering graduate interested in Compute
 ### 1. Enterprise Network Infrastructure Using Cisco Packet Tracer
 Designed and configured an enterprise network connecting multiple departments through routers and switches.
 
+### Network Topology
+
+![Enterprise Network Topology](screenshots/screenshots/01-network-topology.png)
+
 **Key implementations:**
 - Network topology design
 - Static IP addressing
